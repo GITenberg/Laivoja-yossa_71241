@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '7732'
     url: http://www.gutenberg.org/2009/agents/7732
     wikipedia: https://fi.wikipedia.org/wiki/Samuli_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harraden, Beatrice
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4389
     wikipedia: https://en.wikipedia.org/wiki/Beatrice_Harraden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71241#Laivoja-yossa
 gutenberg_issued: '2023-07-21'
 identifiers:
   gutenberg: '71241'
